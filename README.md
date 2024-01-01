@@ -1,2 +1,2 @@
-# bazaar-ransomware-2023
+# Bazaar Ransomware 2023
 Collection de ransomware sur Bazaar
