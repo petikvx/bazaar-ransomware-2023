@@ -1,0 +1,16 @@
+| Ransomware name                     | Sample                                                                              |
+|:------------------------------------|:------------------------------------------------------------------------------------|
+| MALWARE_Win_Chaos                   | bazaar-2023-06/1238ab3dd3ed620536969ee438e99a33a418ba20f5e691962ed07904e075b2a4.exe |
+| MALWARE_Win_Chaos                   | bazaar-2023-06/04b106b179c202c67361aa4debad5d82f79a1927ab0ab8abc2ef350d18894b08.exe |
+| INDICATOR_SUSPICIOUS_GENRansomware  | bazaar-2023-06/1238ab3dd3ed620536969ee438e99a33a418ba20f5e691962ed07904e075b2a4.exe |
+| INDICATOR_SUSPICIOUS_GENRansomware  | bazaar-2023-06/04b106b179c202c67361aa4debad5d82f79a1927ab0ab8abc2ef350d18894b08.exe |
+| INDICATOR_SUSPICIOUS_GENRansomware  | bazaar-2023-06/5ccff9af23c18998221f45396732539d18e330454327d1e7450095c682d8c552.exe |
+| Destructive_Ransomware_Gen1         | bazaar-2023-06/04b106b179c202c67361aa4debad5d82f79a1927ab0ab8abc2ef350d18894b08.exe |
+| Win32_Ransomware_CryptoLocker       | bazaar-2023-06/d765e722e295969c0a5c2d90f549db8b89ab617900bf4698db41c7cdad993bb9.exe |
+| Win32_Ransomware_WannaCry           | bazaar-2023-06/be22645c61949ad6a077373a7d6cd85e3fae44315632f161adc4c99d5a8e6844.exe |
+| Windows_Ransomware_Clop_6a1670aa    | bazaar-2023-06/3320f11728458d01eef62e10e48897ec1c2277c1fe1aa2d471a16b4dccfc1207.exe |
+| Windows_Ransomware_Clop_e04959b5    | bazaar-2023-06/3320f11728458d01eef62e10e48897ec1c2277c1fe1aa2d471a16b4dccfc1207.exe |
+| Windows_Ransomware_Clop_9ac9ea3e    | bazaar-2023-06/3320f11728458d01eef62e10e48897ec1c2277c1fe1aa2d471a16b4dccfc1207.exe |
+| Windows_Ransomware_Clop_606020e7    | bazaar-2023-06/3320f11728458d01eef62e10e48897ec1c2277c1fe1aa2d471a16b4dccfc1207.exe |
+| Windows_Ransomware_Lockbit_369e1e94 | bazaar-2023-06/0845a8c3be602a72e23a155b23ad554495bd558fa79e1bb849aa75f79d069194.exe |
+| Windows_Ransomware_Phobos_11ea7be5  | bazaar-2023-06/0b997e8b0d0ff6cc4e6f1919c6c0f3080eaa0d08c8fccdf50f7648bf05cca446.exe |

@@ -1,0 +1,34 @@
+| Ransomware name                        | Sample                                                                              |
+|:---------------------------------------|:------------------------------------------------------------------------------------|
+| MALWARE_Win_Chaos                      | bazaar-2023-11/cf5705942d02b4585d0ee603e8773d888937e0f4221d38ea9404356a1d906392.exe |
+| INDICATOR_SUSPICIOUS_GENRansomware     | bazaar-2023-11/7d98972d5c78e1d4969da76856d6818942b606c267efa67fd31d39ae77497e9c.exe |
+| INDICATOR_SUSPICIOUS_GENRansomware     | bazaar-2023-11/ee24110ddb4121b31561f86692650b63215a93fb2357b2bd3301fabc419290a3.dll |
+| INDICATOR_SUSPICIOUS_GENRansomware     | bazaar-2023-11/ecfb5c95d0f3d112650ef4047936e8fa5244c21c921f6c7a6963e92abab4949d.exe |
+| INDICATOR_SUSPICIOUS_GENRansomware     | bazaar-2023-11/cf5705942d02b4585d0ee603e8773d888937e0f4221d38ea9404356a1d906392.exe |
+| INDICATOR_SUSPICIOUS_GENRansomware     | bazaar-2023-11/df29d5c4a750663440ce76d6804ce88e03faeef9591ec0b3b9ca348a6c930b7f.exe |
+| INDICATOR_SUSPICIOUS_GENRansomware     | bazaar-2023-11/c26ce932f3609ecd710a3a1ca7f7b96f1b103a11b49a86e9423e03664eaabd40.dll |
+| Destructive_Ransomware_Gen1            | bazaar-2023-11/ecfb5c95d0f3d112650ef4047936e8fa5244c21c921f6c7a6963e92abab4949d.exe |
+| Win32_Ransomware_NotPetya              | bazaar-2023-11/4c0153b979e65346c1d6f863086082ec5ef103cbf6b0f5e8652d61da678a8ca5.exe |
+| ByteCode_MSIL_Ransomware_Povlsomware   | bazaar-2023-11/fd32cec288cec4f16dc5430cf86dc17e1d4cf941d635979fc17a59c8d6d83d44.exe |
+| Win32_Ransomware_Revil                 | bazaar-2023-11/3fdad99a17a6766fe396081f82394f5e2da0142651427da64a5b6e28c9df2fd4.exe |
+| Windows_Ransomware_Sodinokibi_83f05fbe | bazaar-2023-11/5cba3e44271279e747a67dd312d4dca18832b5a850ea6b85a460846ef0101fb6.exe |
+| Windows_Ransomware_Sodinokibi_a282ba44 | bazaar-2023-11/5cba3e44271279e747a67dd312d4dca18832b5a850ea6b85a460846ef0101fb6.exe |
+| Windows_Ransomware_Sodinokibi_83f05fbe | bazaar-2023-11/6628de7ffbbe168a4fa9ff0a1a29b54e88a32e5963db0dd1aea4b80102c8ce01.exe |
+| Windows_Ransomware_Sodinokibi_a282ba44 | bazaar-2023-11/6628de7ffbbe168a4fa9ff0a1a29b54e88a32e5963db0dd1aea4b80102c8ce01.exe |
+| Windows_Ransomware_Sodinokibi_83f05fbe | bazaar-2023-11/3cff33197edc918d47d08f44d6ddbdda157337f0ad58288d15746cf72c0e4c57.exe |
+| Windows_Ransomware_Sodinokibi_a282ba44 | bazaar-2023-11/3cff33197edc918d47d08f44d6ddbdda157337f0ad58288d15746cf72c0e4c57.exe |
+| Windows_Ransomware_Phobos_11ea7be5     | bazaar-2023-11/b609555a43a2e1151f9ee7b028d0141034bfce25487ef2ec826d2af714e15ee5.exe |
+| Windows_Ransomware_Ryuk_878bae7e       | bazaar-2023-11/d6b7b27e13700aaa7f108bf9e76473717a7a1665198e9aafcc2d2227ca11bba9.exe |
+| Windows_Ransomware_Sodinokibi_83f05fbe | bazaar-2023-11/17d153a225ea04a229862875795eeec0adb8c3e2769ba0e05073baaf86850467.exe |
+| Windows_Ransomware_Sodinokibi_a282ba44 | bazaar-2023-11/17d153a225ea04a229862875795eeec0adb8c3e2769ba0e05073baaf86850467.exe |
+| Windows_Ransomware_Phobos_11ea7be5     | bazaar-2023-11/c29630324d768c6e40b814164f6c2c6f33dd741392edc940cc852e67e1667a57.exe |
+| Windows_Ransomware_Sodinokibi_83f05fbe | bazaar-2023-11/42c28feb23c992a350673d63413bf11bc816d00a079462ab524934219d46430d.exe |
+| Windows_Ransomware_Sodinokibi_a282ba44 | bazaar-2023-11/42c28feb23c992a350673d63413bf11bc816d00a079462ab524934219d46430d.exe |
+| Windows_Ransomware_Sodinokibi_83f05fbe | bazaar-2023-11/81689f1be92c8fb7e94fe241441c7eb43cfb77c6d23592b0248566bd709ff2ed.exe |
+| Windows_Ransomware_Sodinokibi_a282ba44 | bazaar-2023-11/81689f1be92c8fb7e94fe241441c7eb43cfb77c6d23592b0248566bd709ff2ed.exe |
+| Windows_Ransomware_Sodinokibi_83f05fbe | bazaar-2023-11/5d9b75e2cb84333c6b56604ce47af75b11f80bf9079054f6619251b68357d87c.exe |
+| Windows_Ransomware_Sodinokibi_a282ba44 | bazaar-2023-11/5d9b75e2cb84333c6b56604ce47af75b11f80bf9079054f6619251b68357d87c.exe |
+| Windows_Ransomware_Sodinokibi_83f05fbe | bazaar-2023-11/133bf8be0cf7003b83b03579970997d408a930e58ec2726715140520900c06de.exe |
+| Windows_Ransomware_Sodinokibi_a282ba44 | bazaar-2023-11/133bf8be0cf7003b83b03579970997d408a930e58ec2726715140520900c06de.exe |
+| Windows_Ransomware_Sodinokibi_83f05fbe | bazaar-2023-11/3fdad99a17a6766fe396081f82394f5e2da0142651427da64a5b6e28c9df2fd4.exe |
+| Windows_Ransomware_Sodinokibi_a282ba44 | bazaar-2023-11/3fdad99a17a6766fe396081f82394f5e2da0142651427da64a5b6e28c9df2fd4.exe |
